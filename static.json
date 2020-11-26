@@ -1,0 +1,8 @@
+{
+  "headers":{
+    "/*":{
+      "X-Author": "alekseiievenko",
+      "Access-Control-Allow-Origin": "*"
+    }
+  }
+}
